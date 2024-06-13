@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Zuzia/Desktop/Analiza_Danych_w_Naukach_o_ziemi/Projekt_2/Location-Intelligence/src/mlruns/515243863052280234/f884b0c7e0354792a7cab2caa5f602dc/artifacts
+end_time: 1718151174643
+entry_point_name: ''
+experiment_id: '515243863052280234'
+lifecycle_stage: active
+run_id: f884b0c7e0354792a7cab2caa5f602dc
+run_name: Support Vector Regressor
+run_uuid: f884b0c7e0354792a7cab2caa5f602dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718151164551
+status: 3
+tags: []
+user_id: Zuzia

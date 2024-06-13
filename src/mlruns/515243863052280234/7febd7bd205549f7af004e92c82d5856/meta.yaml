@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Zuzia/Desktop/Analiza_Danych_w_Naukach_o_ziemi/Projekt_2/Location-Intelligence/src/mlruns/515243863052280234/7febd7bd205549f7af004e92c82d5856/artifacts
+end_time: 1718151184645
+entry_point_name: ''
+experiment_id: '515243863052280234'
+lifecycle_stage: active
+run_id: 7febd7bd205549f7af004e92c82d5856
+run_name: Random Forest Regressor
+run_uuid: 7febd7bd205549f7af004e92c82d5856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718151174685
+status: 3
+tags: []
+user_id: Zuzia

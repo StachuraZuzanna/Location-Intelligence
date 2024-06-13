@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Zuzia/Desktop/Analiza_Danych_w_Naukach_o_ziemi/Projekt_2/Location-Intelligence/src/mlruns/515243863052280234/57a47128832f4bda8de13b8496f1b40b/artifacts
+end_time: 1718193040078
+entry_point_name: ''
+experiment_id: '515243863052280234'
+lifecycle_stage: active
+run_id: 57a47128832f4bda8de13b8496f1b40b
+run_name: Gradient Boosting Regressor
+run_uuid: 57a47128832f4bda8de13b8496f1b40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718193034154
+status: 3
+tags: []
+user_id: Zuzia

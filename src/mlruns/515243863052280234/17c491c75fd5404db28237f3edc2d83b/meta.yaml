@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Zuzia/Desktop/Analiza_Danych_w_Naukach_o_ziemi/Projekt_2/Location-Intelligence/src/mlruns/515243863052280234/17c491c75fd5404db28237f3edc2d83b/artifacts
+end_time: 1718202574806
+entry_point_name: ''
+experiment_id: '515243863052280234'
+lifecycle_stage: active
+run_id: 17c491c75fd5404db28237f3edc2d83b
+run_name: RandomForest RandomizedSearch
+run_uuid: 17c491c75fd5404db28237f3edc2d83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718202544721
+status: 3
+tags: []
+user_id: Zuzia

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Zuzia/Desktop/Analiza_Danych_w_Naukach_o_ziemi/Projekt_2/Location-Intelligence/src/mlruns/515243863052280234/8fccc5ac33be4d27946977bc87493116/artifacts
+end_time: 1718194218928
+entry_point_name: ''
+experiment_id: '515243863052280234'
+lifecycle_stage: active
+run_id: 8fccc5ac33be4d27946977bc87493116
+run_name: Krakow Prediction Evaluation
+run_uuid: 8fccc5ac33be4d27946977bc87493116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718194218799
+status: 3
+tags: []
+user_id: Zuzia

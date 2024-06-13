@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Zuzia/Desktop/Analiza_Danych_w_Naukach_o_ziemi/Projekt_2/Location-Intelligence/src/mlruns/515243863052280234/0a7584ff3b254c82a6535d4451f4382b/artifacts
+end_time: 1718194299076
+entry_point_name: ''
+experiment_id: '515243863052280234'
+lifecycle_stage: active
+run_id: 0a7584ff3b254c82a6535d4451f4382b
+run_name: Linear Regression
+run_uuid: 0a7584ff3b254c82a6535d4451f4382b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718194283831
+status: 3
+tags: []
+user_id: Zuzia

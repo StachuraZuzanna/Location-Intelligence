@@ -1,0 +1,20 @@
+artifact_path: Support Vector Regressor
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.13.2
+model_size_bytes: 24624
+model_uuid: 902f7e0acd2e451aa99a3646d5dc490d
+run_id: 74f6cc1b35a74c1eb030e7341e94aaf8
+utc_time_created: '2024-06-12 12:16:53.186130'
